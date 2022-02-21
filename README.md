@@ -1,6 +1,6 @@
 ### Hi there :sunglasses:
 
-I am a Modeling and Data Analysis student currently at Politecnico di Milano.
+I am a Modeling and Data Analysis student at Politecnico di Milano.
 
 :mortar_board: **Education:**
  - Master of Science in Mathematical Engineering at `Politecnico di Milano`
