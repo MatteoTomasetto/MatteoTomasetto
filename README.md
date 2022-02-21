@@ -1,4 +1,4 @@
-### Hi there :sunglasses:
+### Hi there, I'm Matteo :sunglasses:
 
 I am a Modeling and Data Analysis student at Politecnico di Milano.
 
@@ -15,3 +15,6 @@ I am a Modeling and Data Analysis student at Politecnico di Milano.
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/)
 - `matteo.tomasetto10@gmail.com`
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
