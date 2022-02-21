@@ -12,8 +12,8 @@ I am a Modeling and Data Analysis student at Politecnico di Milano.
  - [Bayesian Estimation Spatial Lag Autocorrelation Model](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
  - [Obstetrics and Periodontal Therapy Analysis](https://github.com/MatteoTomasetto/Obstetrics-and-Periodontal-Therapy-Analysis)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoTomasetto&langs_count=8)](https://github.com/MatteoTomasetto/github-readme-stats)
+
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/)
 - `matteo.tomasetto10@gmail.com`
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoTomasetto&langs_count=8)](https://github.com/MatteoTomasetto/github-readme-stats)
