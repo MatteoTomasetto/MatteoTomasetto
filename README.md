@@ -8,8 +8,6 @@ I am a Modeling and Data Analysis student at Politecnico di Milano.
 
 :pushpin: **Projects:**
  - [CALI Analysis](https://github.com/MatteoTomasetto/CALI-Analysis) 
- - [![Readme Card](https://github.com/MatteoTomasetto/CALI-Analysis/api/pin/?username=MatteoTomasetto&repo=github-readme-stats)](https://github.com/MatteoTomasetto/CALI-Analysis)
-
  - [Model Order Reduction of PDEs by Machine Learning](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
  - [Bayesian Estimation Spatial Lag Autocorrelation Model](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
  - [Obstetrics and Periodontal Therapy Analysis](https://github.com/MatteoTomasetto/Obstetrics-and-Periodontal-Therapy-Analysis)
