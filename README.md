@@ -8,8 +8,7 @@ I am a Modeling and Data Analysis student at Politecnico di Milano.
 
 :pushpin: **Projects:**
 
-[![Model](https://github-readme-stats.vercel.app/api?username=MatteoTomasetto)](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoTomasetto&repo=Model Order Reduction of PDEs by Machine Learning)](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
  - [CALI Analysis](https://github.com/MatteoTomasetto/CALI-Analysis) 
  - [Model Order Reduction of PDEs by Machine Learning](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
  - [Bayesian Estimation Spatial Lag Autocorrelation Model](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
