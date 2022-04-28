@@ -25,8 +25,8 @@ I am a Modeling and Data Analysis student at Politecnico di Milano.
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
- <img src="https://www.openfoam.com/themes/bs4esi/img/logo-1200x627.jpg" title="OpenFOAM" alt="OpenFOAM" width="40" height="40"/>&nbsp;
- <img src=" https://banner2.cleanpng.com/20180612/xbx/kisspng-paraview-data-visualization-kitware-computer-icons-thirdparty-source-5b1f7cfd41c1c0.5710099315287902692694.jpg" title="ParaView" alt="ParaView" width="40" height="40"/>&nbsp;
+ <img src="https://lhypercube.arep.fr/wp-content/uploads/2018/06/logo_Foam.png" title="OpenFOAM" alt="OpenFOAM" width="40" height="40"/>&nbsp;
+ <img src="https://w7.pngwing.com/pngs/1008/99/png-transparent-paraview-data-visualization-kitware-computer-icons-thirdparty-source-angle-text-rectangle.png" title="ParaView" alt="ParaView" width="40" height="40"/>&nbsp;
 
  
  
