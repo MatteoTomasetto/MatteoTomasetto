@@ -27,14 +27,6 @@ I am a Modeling and Data Analysis student at Politecnico di Milano.
  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
 </div>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoTomasetto&langs_count=8)](https://github.com/MatteoTomasetto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoTomasetto&layout=compact&theme=vision-friendly-dark)]
-(https://github.com/MatteoTomasetto/github-readme-stats)
-
-
-https://github-readme-streak-stats.herokuapp.com/?user=MatteoTomasetto
-
 
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/)
