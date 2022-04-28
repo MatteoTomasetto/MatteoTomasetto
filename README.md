@@ -29,6 +29,12 @@ I am a Modeling and Data Analysis student at Politecnico di Milano.
 </div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoTomasetto&langs_count=8)](https://github.com/MatteoTomasetto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)]
+(https://github.com/anuraghazra/github-readme-stats)
+
+
+https://github-readme-streak-stats.herokuapp.com/?user=MatteoTomasetto
+
 
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/)
