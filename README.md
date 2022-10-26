@@ -3,7 +3,7 @@
 I am a PhD student at Politecnico di Milano.
 
 :mortar_board: **Education:**
- - PhD in Mathematical Models and Methods in Engineering & Mechanical Engineeringat at `Politecnico di Milano`
+ - PhD in Mathematical Models and Methods in Engineering & Mechanical Engineering at `Politecnico di Milano`
  - Master of Science in Mathematical Engineering at `Politecnico di Milano`
  - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano`
 
