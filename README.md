@@ -1,8 +1,9 @@
 ### Hi there, I'm Matteo :sunglasses:
 
-I am a Modeling and Data Analysis student at Politecnico di Milano.
+I am a PhD student at Politecnico di Milano.
 
 :mortar_board: **Education:**
+ - PhD in Mathematical Models and Methods in Engineering & Mechanical Engineeringat at `Politecnico di Milano`
  - Master of Science in Mathematical Engineering at `Politecnico di Milano`
  - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano`
 
