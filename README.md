@@ -1,6 +1,6 @@
 ### Hi there, I'm Matteo :sunglasses:
 
-I am a PhD student at Politecnico di Milano.
+I am a PhD student at Politecnico di Milano
 
 :mortar_board: **Education:**
  - PhD in Mathematical Models and Methods in Engineering & Mechanical Engineering at `Politecnico di Milano`
