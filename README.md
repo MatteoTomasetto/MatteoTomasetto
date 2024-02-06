@@ -10,10 +10,10 @@ I am a PhD student at Politecnico di Milano
 :pushpin: **Projects:**
 
  - [fdaPDE Parameter Cascading](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading) 
- - [Model Order Reduction of PDEs by Machine Learning](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
- - [Bayesian Estimation Spatial Lag Autocorrelation Model](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
- - [CALI Analysis](https://github.com/MatteoTomasetto/CALI-Analysis) 
-- [Obstetrics and Periodontal Therapy Analysis](https://github.com/MatteoTomasetto/Obstetrics-and-Periodontal-Therapy-Analysis)
+ - [MOR-NN](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
+ - [Spatial-Lag Autocorrelation](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
+ - [CALI](https://github.com/MatteoTomasetto/CALI-Analysis) 
+- [OPT](https://github.com/MatteoTomasetto/Obstetrics-and-Periodontal-Therapy-Analysis)
 
 :hammer_and_wrench: Languages and Tools :
 <div>
