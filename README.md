@@ -10,10 +10,10 @@ I am a PhD student at Politecnico di Milano
 :pushpin: **Projects:**
 
  - [fdaPDE Parameter Cascading](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading) 
- - [MOR-NN](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
- - [Spatial-Lag Autocorrelation](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
- - [CALI](https://github.com/MatteoTomasetto/CALI-Analysis) 
-- [OPT](https://github.com/MatteoTomasetto/Obstetrics-and-Periodontal-Therapy-Analysis)
+ - [Model Order Reduction by Neural Networks](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
+ - [Spatial-Lag Autocorrelation Model](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
+ - [Chemotherapy Associated Liver Injuries Analysis](https://github.com/MatteoTomasetto/CALI-Analysis) 
+- [Obstetrics and Periodontal Therapy Analysis](https://github.com/MatteoTomasetto/Obstetrics-and-Periodontal-Therapy-Analysis)
 
 :hammer_and_wrench: Languages and Tools :
 <div>
@@ -25,7 +25,8 @@ I am a PhD student at Politecnico di Milano
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://gitlab.kitware.com/uploads/-/system/group/avatar/14/ParaView_Mark.png" title="ParaView" alt="ParaView" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/MatteoTomasetto/HTMLxLaTeX/blob/main/FEniCS_logo.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
 </div>
 
 :loudspeaker: **Contacts:**
