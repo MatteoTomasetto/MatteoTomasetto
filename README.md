@@ -9,11 +9,11 @@ I am a PhD student at Politecnico di Milano
 
 :pushpin: **Projects:**
 
- - [fdaPDE Parameter Cascading](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading) 
- - [Model Order Reduction by Neural Networks](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
- - [Spatial-Lag Autocorrelation Model](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
- - [Chemotherapy Associated Liver Injuries Analysis](https://github.com/MatteoTomasetto/CALI-Analysis) 
-- [Obstetrics and Periodontal Therapy Analysis](https://github.com/MatteoTomasetto/Obstetrics-and-Periodontal-Therapy-Analysis)
+ - [Modeling spatial anisotropy via regression with differential penalization and parameter cascading algorithm](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading) 
+ - [Model order reduction of time dependent PDEs by neural networks](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)
+ - [Bayesian estimation of a spatial-lag autocorrelation model](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
+ - [Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer](https://github.com/MatteoTomasetto/CALI-Analysis) 
+ - [Obstetrics and Periodontal Therapy Analysis](https://github.com/MatteoTomasetto/Obstetrics-and-Periodontal-Therapy-Analysis)
 
 :hammer_and_wrench: Languages and Tools :
 <div>
