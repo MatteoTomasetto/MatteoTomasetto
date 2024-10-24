@@ -3,7 +3,9 @@
 I am a PhD student at Politecnico di Milano
 
 :mortar_board: **Education:**
- - PhD in Mathematical Models and Methods in Engineering & Mechanical Engineering at `Politecnico di Milano`
+ - Visiting researcher at `AI institute in Dynamic Systems`
+ - Scientific collaborator at `MOX Laboratory`
+ - PhD in Mechanical Engineering at `Politecnico di Milano`
  - Master of Science in Mathematical Engineering at `Politecnico di Milano`
  - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano`
 
