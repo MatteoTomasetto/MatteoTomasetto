@@ -3,11 +3,11 @@
 I am a PhD student at Politecnico di Milano
 
 :mortar_board: **Education:**
- - Visiting researcher at `AI institute in Dynamic Systems`
- - Scientific collaborator at `MOX Laboratory`
- - PhD in Mechanical Engineering at `Politecnico di Milano`
- - Master of Science in Mathematical Engineering at `Politecnico di Milano`
- - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano`
+ - Visiting researcher at `AI institute in Dynamic Systems` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI_logo.eps" title="Polimi" alt="Polimi" width="30" height="40"/>&nbsp;
+ - Scientific collaborator at `MOX Laboratory` <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.eps" title="Polimi" alt="Polimi" width="30" height="40"/>&nbsp;
+ - PhD in Mechanical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.eps" title="Polimi" alt="Polimi" width="30" height="40"/>&nbsp;
+ - Master of Science in Mathematical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.eps" title="Polimi" alt="Polimi" width="30" height="40"/>&nbsp;
+ - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.eps" title="Polimi" alt="Polimi" width="30" height="40"/>&nbsp;
 
 :pushpin: **Projects:**
 
@@ -25,7 +25,7 @@ I am a PhD student at Politecnico di Milano
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/MatteoTomasetto/HTMLxLaTeX/blob/main/FEniCS_logo.png" title="FEniCS" alt="FEniCS" width="30" height="40"/>&nbsp; 
+   <img src="https://github.com/MatteoTomasetto/Images/blob/main/FEniCS_logo.png" title="FEniCS" alt="FEniCS" width="30" height="40"/>&nbsp; 
  <img src="https://gitlab.kitware.com/uploads/-/system/group/avatar/14/ParaView_Mark.png" title="ParaView" alt="ParaView" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
