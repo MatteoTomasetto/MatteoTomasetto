@@ -3,11 +3,11 @@
 I am a PhD student at Politecnico di Milano
 
 :mortar_board: **Education:**
- - Visiting researcher at `AI institute in Dynamic Systems` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI_logo.png" title="DynamicsAI" alt="DynamicsAI" width="30" height="40"/>&nbsp;
- - Scientific collaborator at `MOX Laboratory` <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" width="30" height="40"/>&nbsp;
- - PhD in Mechanical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.eps" title="DMECC" alt="DMECC" width="30" height="40"/>&nbsp;
- - Master of Science in Mathematical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.eps" title="Polimi" alt="Polimi" width="30" height="40"/>&nbsp;
- - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.eps" title="Polimi" alt="Polimi" width="30" height="40"/>&nbsp;
+ - Visiting researcher at `AI institute in Dynamic Systems` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="40"/>&nbsp;
+ - Scientific collaborator at `MOX Laboratory` <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" height="40"/>&nbsp;
+ - PhD in Mechanical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.eps" title="DMECC" alt="DMECC" height="40"/>&nbsp;
+ - Master of Science in Mathematical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.eps" title="Polimi" alt="Polimi" height="40"/>&nbsp;
+ - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.eps" title="Polimi" alt="Polimi" height="40"/>&nbsp;
 
 :pushpin: **Projects:**
 
