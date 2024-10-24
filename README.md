@@ -33,6 +33,5 @@ I am a PhD student at Politecnico di Milano
 </div>
 
 :loudspeaker: **Contacts:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/)
-- [![Scholar](https://img.shields.io/badge/ResearchGate-green?style=flat&logo=researchgate)](https://www.linkedin.com/in/matteo-tomasetto/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/), [![ResearchGate](https://img.shields.io/badge/ResearchGate?style=flat&logo=researchgate)](https://www.linkedin.com/in/matteo-tomasetto/)
 - <a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a>
