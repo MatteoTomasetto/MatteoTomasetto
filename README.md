@@ -3,7 +3,7 @@
 I am a PhD student at Politecnico di Milano
 
 :mortar_board: **Education:**
- - Visiting researcher at `AI institute in Dynamic Systems` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="35" align="right"/>
+ - Visiting researcher at `AI institute in Dynamic Systems` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="35" align="center"/>
  - Scientific collaborator at `MOX Laboratory` <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" height="30"/>
  - PhD in Mechanical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.png" title="DMECC" alt="DMECC" height="30"/>
  - Master of Science in Mathematical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="80"/>
