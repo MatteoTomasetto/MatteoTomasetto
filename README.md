@@ -13,7 +13,7 @@ I am a PhD student at Politecnico di Milano
 
 | Project                                                                                                                    | Description                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [**fdaPDE-ParameterCascading**](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading)                                   | Modeling spatial anisotropy through physics-informed spatial regression and parameter cascading algorithm           |
+| [**ParameterCascading**](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading)                                   | Modeling spatial anisotropy through physics-informed spatial regression and parameter cascading algorithm           |
 | [**MOR-NN**](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)                         | Model order reduction of time dependent PDEs by neural networks                                                     |
 | [**CALI**](https://github.com/MatteoTomasetto/CALI-Analysis)                                                               | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                          |
 | [**BayesianChad**](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model)                | Bayesian estimation of a spatial-lag autocorrelation model for human conflicts diffusion in the Lake Chad basin    |
