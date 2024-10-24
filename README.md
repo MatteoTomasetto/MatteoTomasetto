@@ -34,4 +34,5 @@ I am a PhD student at Politecnico di Milano
 
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/)
+- [![Scholar](https://img.shields.io/badge/googlescholar)](https://www.linkedin.com/in/matteo-tomasetto/)
 - <a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a>
