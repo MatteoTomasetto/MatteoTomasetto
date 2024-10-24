@@ -6,8 +6,8 @@ I am a PhD student at Politecnico di Milano
  - Visiting researcher at `AI institute in Dynamic Systems` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="40"/>&nbsp;
  - Scientific collaborator at `MOX Laboratory` <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" height="40"/>&nbsp;
  - PhD in Mechanical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.png" title="DMECC" alt="DMECC" height="40"/>&nbsp;
- - Master of Science in Mathematical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="40"/>&nbsp;
- - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="40"/>&nbsp;
+ - Master of Science in Mathematical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="50"/>&nbsp;
+ - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="50"/>&nbsp;
 
 :pushpin: **Projects:**
 
