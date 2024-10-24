@@ -34,7 +34,5 @@ I am a PhD student at Politecnico di Milano
 
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/)
--         <li><a href="https://www.researchgate.net/profile/Stefano-Riva-4"><img src="https://img.shields.io/badge/ResearchGate-Steriva-green?style=flat-square&logo=researchgate" alt="ResearchGate"></a></li>
-
-- [![Scholar]()]([https://www.linkedin.com/in/matteo-tomasetto/](https://img.shields.io/badge/ResearchGate-green?style=flat&logo=researchgate))
+- [![Scholar](https://img.shields.io/badge/ResearchGate-green?style=flat&logo=researchgate)](https://www.linkedin.com/in/matteo-tomasetto/)
 - <a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a>
