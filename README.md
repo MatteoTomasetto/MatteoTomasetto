@@ -18,7 +18,7 @@ I am a PhD student at Politecnico di Milano
  - [Obstetrics and Periodontal Therapy Analysis](https://github.com/MatteoTomasetto/Obstetrics-and-Periodontal-Therapy-Analysis)
  - [Real Estate](https://github.com/MatteoTomasetto/RealEstate)
 
-:hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: **Languages and Tools:**
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -34,4 +34,4 @@ I am a PhD student at Politecnico di Milano
 
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/)
-- `matteo.tomasetto10@gmail.com`
+- <a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a>
