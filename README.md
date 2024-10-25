@@ -2,27 +2,20 @@
 
 :mortar_board: **Bakground**
 
-- Visiting researcher at `AI institute in Dynamic Systems`
-- Scientific collaborator at `MOX Laboratory`
-- PhD in Mechanical Engineering at `Politecnico di Milano`
-- Master of Science in Mathematical Engineering at `Politecnico di Milano`
-- Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` 
-
-<img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="50" align="right"/>
-<img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" height="40" align="right"/>
-<img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.png" title="DMECC" alt="DMECC" height="50" align="right"/>
-<img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="right"/>
-<img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="right"/>
- 
+- Visiting researcher at `AI institute in Dynamic Systems` $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="50" align="center"/>
+- Scientific collaborator at `MOX Laboratory` $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" height="40" align="center"/>
+- PhD in Mechanical Engineering at `Politecnico di Milano` $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.png" title="DMECC" alt="DMECC" height="50" align="center"/>
+- Master of Science in Mathematical Engineering at `Politecnico di Milano` $~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="center"/>
+- Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` $~~~~~~~~~~~~~~~$ <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="center"/>
 
 :pushpin: **Main Projects**
 
-| Project                                                                                                                    | Description                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [**ParameterCascading**](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading)                                   | Modeling spatial anisotropy through physics-informed spatial regression and parameter cascading algorithm           |
-| [**MOR-NN**](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)                         | Model order reduction of time dependent PDEs by neural networks                                                     |
-| [**CALI**](https://github.com/MatteoTomasetto/CALI-Analysis)                                                               | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                          |
-| [**BayesianChad**](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model)                | Bayesian estimation of a spatial-lag autocorrelation model for human conflicts diffusion in the Lake Chad basin    |
+| Project                                                                                                                   | Description                                                                                                     |
+|.--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [**ParameterCascading**](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading)                                   | Modeling spatial anisotropy through physics-informed spatial regression and parameter cascading algorithm       |
+| [**MOR-NN**](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)                        | Model order reduction of time dependent PDEs by neural networks                                                 |
+| [**CALI**](https://github.com/MatteoTomasetto/CALI-Analysis)                                                              | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                      |
+| [**BayesianChad**](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model)              | Bayesian estimation of a spatial-lag autocorrelation model for human conflicts diffusion in the Lake Chad basin |
 
 :hammer_and_wrench: **Languages and Tools**
 <div>
