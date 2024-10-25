@@ -33,4 +33,6 @@
 
 :loudspeaker: **Contacts**
 
-<a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a> &ensp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/) &ensp; [![Scholar](https://img.shields.io/badge/GoogleScholar-lightblue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=RX_ZX2wAAAAJ&hl=it) &ensp; [![ResearchGate](https://img.shields.io/badge/ResearchGate-lightgray?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Matteo-Tomasetto)
+<a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a> 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/) &ensp; [![Scholar](https://img.shields.io/badge/GoogleScholar-lightblue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=RX_ZX2wAAAAJ&hl=it) &ensp; [![ResearchGate](https://img.shields.io/badge/ResearchGate-lightgray?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Matteo-Tomasetto)
