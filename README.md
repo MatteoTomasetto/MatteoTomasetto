@@ -3,9 +3,13 @@
 :mortar_board: **Bakground**
 
  <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="50" align="right"/>
+ 
  <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" height="40" align="right"/>
- - Visiting researcher at `AI institute in Dynamic Systems` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
- - Scientific collaborator at `MOX Laboratory` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" height="40" align="center"/>
+ 
+ Visiting researcher at `AI institute in Dynamic Systems`
+ 
+ Scientific collaborator at `MOX Laboratory`
+ 
  - PhD in Mechanical Engineering at `Politecnico di Milano` &emsp; &emsp; <img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.png" title="DMECC" alt="DMECC" height="50" align="center"/>
  - Master of Science in Mathematical Engineering at `Politecnico di Milano` &emsp; &emsp; &nbsp; <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="center"/>
  - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` &emsp; &emsp; <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="center"/>
