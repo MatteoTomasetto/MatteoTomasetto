@@ -1,16 +1,16 @@
 ### Hi there, I'm Matteo :sunglasses:
 
-:mortar_board: **Education**
+:mortar_board: **Bakground**
  
- Visiting researcher at `AI institute in Dynamic Systems` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="50" align="center"/>
+ - Visiting researcher at `AI institute in Dynamic Systems` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="50" align="center"/>
  
- Scientific collaborator at `MOX Laboratory` <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" height="40" align="center"/>
+ - Scientific collaborator at `MOX Laboratory` <img src="https://github.com/MatteoTomasetto/Images/blob/main/MOX_logo.png" title="MOX" alt="MOX" height="40" align="center"/>
  
- PhD in Mechanical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.png" title="DMECC" alt="DMECC" height="50" align="center"/>
+ - PhD in Mechanical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/DMECC_logo.png" title="DMECC" alt="DMECC" height="50" align="center"/>
  
- Master of Science in Mathematical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="center"/>
+ - Master of Science in Mathematical Engineering at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="center"/>
  
- Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="center"/>
+ - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano` <img src="https://github.com/MatteoTomasetto/Images/blob/main/Polimi_logo.png" title="Polimi" alt="Polimi" height="90" align="center"/>
 
 :pushpin: **Main Projects**
 
@@ -37,6 +37,4 @@
 
 :loudspeaker: **Contacts**
 
-<a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/)  [![Scholar](https://img.shields.io/badge/GoogleScholar-lightblue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=RX_ZX2wAAAAJ&hl=it) [![ResearchGate](https://img.shields.io/badge/ResearchGate-lightgray?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Matteo-Tomasetto)
+<a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a> &ensp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/) &ensp; [![Scholar](https://img.shields.io/badge/GoogleScholar-lightblue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=RX_ZX2wAAAAJ&hl=it) &ensp; [![ResearchGate](https://img.shields.io/badge/ResearchGate-lightgray?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Matteo-Tomasetto)
