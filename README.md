@@ -12,10 +12,10 @@
 
 | Project                                                                                                                   | Description                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [**SHRED-ROM**](https://github.com/MatteoTomasetto/SHRED-ROM)                                                             | Reduced order modeling with shallow recurrent decoder networks                                                  |
+| [**OCP-DL-ROM**](https://github.com/MatteoTomasetto/OCP-DL-ROM)                                                           | Real-time optimal control of high-dimensional parametrized systems by DL-ROMs                                   |
 | [**ParameterCascading**](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading)                                   | Modeling spatial anisotropy through physics-informed spatial regression and parameter cascading algorithm       |
-| [**MOR-NN**](https://github.com/MatteoTomasetto/Model-Order-Reduction-of-PDEs-by-Machine-Learning)                        | Model order reduction of time dependent PDEs by neural networks                                                 |
 | [**CALI**](https://github.com/MatteoTomasetto/CALI-Analysis)                                                              | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                      |
-| [**BayesianChad**](https://github.com/MatteoTomasetto/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model)              | Bayesian estimation of a spatial-lag autocorrelation model for human conflicts diffusion in the Lake Chad basin |
 
 :hammer_and_wrench: **Languages and Tools**
 <div>
