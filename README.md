@@ -12,10 +12,10 @@
 
 | Project                                                                                                                   | Description                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| [**SHRED-ROM**](https://github.com/MatteoTomasetto/SHRED-ROM)                                                             | Reduced order modeling with shallow recurrent decoder networks                                                  |
-| [**OCP-DL-ROM**](https://github.com/MatteoTomasetto/OCP-DL-ROM)                                                           | Real-time optimal control of high-dimensional parametrized systems by DL-ROMs                                   |
-| [**ParameterCascading**](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading)                                   | Modeling spatial anisotropy through physics-informed spatial regression and parameter cascading algorithm       |
-| [**CALI**](https://github.com/MatteoTomasetto/CALI-Analysis)                                                              | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                      |
+| [**SHRED-ROM**](https://github.com/MatteoTomasetto/SHRED-ROM)                                                             | Reduced order modeling with shallow recurrent decoder networks                                                    |
+| [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl)                                     | Latent feedback control of distributed systems in multiple scenarios through DL-ROMs                              |
+| [**ParameterCascading**](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading)                                   | Modeling spatial anisotropy through physics-informed spatial regression and parameter cascading algorithm |
+| [**CALI**](https://github.com/MatteoTomasetto/CALI-Analysis)                                                              | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                       |
 
 :hammer_and_wrench: **Languages and Tools**
 <div>
