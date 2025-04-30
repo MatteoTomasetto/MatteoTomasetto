@@ -13,7 +13,7 @@
 | Project                                                                                                                   | Description                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | [**SHRED-ROM**](https://github.com/MatteoTomasetto/SHRED-ROM)                                                             | Reduced order modeling with shallow recurrent decoder networks                                                    |
-| [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl)                                     | Latent feedback control of distributed systems in multiple scenarios through DL-ROMs                              |
+| [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl)                                     | Latent feedback control of distributed systems in multiple scenarios through Deep Learning-based Reduced Order Models        |
 | [**ParameterCascading**](https://github.com/MatteoTomasetto/fdaPDE-parameter-cascading)                                   | Modeling spatial anisotropy through physics-informed spatial regression and parameter cascading algorithm |
 | [**CALI**](https://github.com/MatteoTomasetto/CALI-Analysis)                                                              | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                       |
 
