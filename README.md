@@ -9,10 +9,10 @@
 
 | Project | Description |
 |---|---|
-| [**shred-rom**](https://github.com/MatteoTomasetto/shred-rom) | Reduced order modeling with shallow recurrent decoder networks <br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="300"></div> |
-| [**pearl**](https://github.com/MatteoTomasetto/pearl)                                                                     | Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems                                 |
-| [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl)                                     | Latent feedback control of distributed systems in multiple scenarios through Deep Learning-based Reduced Order Models   |
-| [**cali**](https://github.com/MatteoTomasetto/cali)                                                                       | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                                       |
+| [**shred-rom**](https://github.com/MatteoTomasetto/shred-rom)                          | Reduced order modeling with shallow recurrent decoder networks <br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="500"></div> |
+| [**pearl**](https://github.com/MatteoTomasetto/pearl)                                  | Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems <br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/pearl/main/media/pearl.png" width="500"></div>                                |
+| [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl)  | Latent feedback control of distributed systems in multiple scenarios through Deep Learning-based Reduced Order Models  <br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/LatentFeedbackControl/main/media/OCP-DL-ROM-Feedback.jpg" width="500"></div> |
+| [**cali**](https://github.com/MatteoTomasetto/cali)                                    | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                                       |
 
 
 :mortar_board: **Bakground**
