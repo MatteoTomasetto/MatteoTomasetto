@@ -12,13 +12,13 @@
 
 | Project                                                                                                                   | Description                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| [**shred-rom**](https://github.com/MatteoTomasetto/shred-rom)                                                             | Reduced order modeling with shallow recurrent decoder networks                                                    |
+| [**shred-rom**](https://github.com/MatteoTomasetto/shred-rom)                                                             | Reduced order modeling with shallow recurrent decoder networks                                                                   |
 
-| [**pearl**](https://github.com/MatteoTomasetto/pearl)                                   | Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems |
+| [**pearl**](https://github.com/MatteoTomasetto/pearl)                                                                     | Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems                                 |
 
-| [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl)                                     | Latent feedback control of distributed systems in multiple scenarios through Deep Learning-based Reduced Order Models        |
+| [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl)                                     | Latent feedback control of distributed systems in multiple scenarios through Deep Learning-based Reduced Order Models   |
 
-| [**cali**](https://github.com/MatteoTomasetto/cali)                                                                       | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                       |
+| [**cali**](https://github.com/MatteoTomasetto/cali)                                                                       | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                                       |
 
 :hammer_and_wrench: **Languages and Tools**
 <div>
