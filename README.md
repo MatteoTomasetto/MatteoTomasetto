@@ -9,8 +9,7 @@
 
 | Project                                                                                                                   | Description                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| [**shred-rom**](https://github.com/MatteoTomasetto/shred-rom)                                                             | Reduced order modeling with shallow recurrent decoder networks
-<p align="center" width="100%">
+| [**shred-rom**](https://github.com/MatteoTomasetto/shred-rom)                                                             | Reduced order modeling with shallow recurrent decoder networks <p align="center" width="100%">
   <img width=80% src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" >
   <br />
 </p>                                                                 |
