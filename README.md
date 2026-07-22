@@ -6,10 +6,9 @@
 
 | :pushpin:  Main Projects |
 |---|
-| [**shred-rom**](https://github.com/MatteoTomasetto/shred-rom)<br>*Reduced order modeling with shallow recurrent decoder networks*<br><br><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="600"> |
-| [**pearl**](https://github.com/MatteoTomasetto/pearl)<br>*Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems*<br><br><img src="https://raw.githubusercontent.com/MatteoTomasetto/pearl/main/media/pearl.png" width="600"> |
-| [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl)<br>*Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models*<br><br><img src="https://raw.githubusercontent.com/MatteoTomasetto/LatentFeedbackControl/main/media/OCP-DL-ROM-Feedback.jpg" width="600"> |
-
+| [![**shred-rom**](https://img.shields.io/badge/shred-rom-FF00FF)](https://github.com/MatteoTomasetto/shred-rom) [![Paper](https://img.shields.io/badge/PAPER-FF00FF)](http://dx.doi.org/10.1038/s41467-025-65126-y) *Reduced order modeling with shallow recurrent decoder networks*<br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="600"></div> |
+| [**pearl**](https://github.com/MatteoTomasetto/pearl) *Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems*<br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/pearl/main/media/pearl.png" width="600"></div> |
+| [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl) *Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models*<br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/LatentFeedbackControl/master/media/OCP-DL-ROM-Feedback.jpg" width="600"></div> |
 :mortar_board: **Bakground**
 
 - Visiting researcher at `AI institute in Dynamic Systems` $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/MatteoTomasetto/Images/blob/main/DynamicsAI.png" title="DynamicsAI" alt="DynamicsAI" height="50" align="center"/>
