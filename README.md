@@ -9,7 +9,9 @@
 
 | Project | Description |
 |---|---|
-| [**shred-rom**](https://github.com/MatteoTomasetto/shred-rom)                          | Reduced order modeling with shallow recurrent decoder networks <br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="500"></div> |
+| Project |
+|---|
+| [**shred-rom**](https://github.com/MatteoTomasetto/shred-rom)<br>*Reduced order modeling with shallow recurrent decoder networks*<br><br><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="600"> |
 | [**pearl**](https://github.com/MatteoTomasetto/pearl)                                  | Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems <br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/pearl/main/media/pearl.png" width="500"></div>                                |
 | [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl)  | Latent feedback control of distributed systems in multiple scenarios through Deep Learning-based Reduced Order Models  <br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/LatentFeedbackControl/main/media/OCP-DL-ROM-Feedback.jpg" width="500"></div> |
 | [**cali**](https://github.com/MatteoTomasetto/cali)                                    | Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer                                       |
