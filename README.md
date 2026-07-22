@@ -6,7 +6,7 @@
 
 | :pushpin:  Main Projects |
 |---|
-| [![**shred-rom**](https://img.shields.io/badge/shred-rom-FF00FF)](https://github.com/MatteoTomasetto/shred-rom) [![Paper](https://img.shields.io/badge/PAPER-FF00FF)](http://dx.doi.org/10.1038/s41467-025-65126-y) *Reduced order modeling with shallow recurrent decoder networks*<br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="600"></div> |
+| *Reduced order modeling with shallow recurrent decoder networks*  [![**shred-rom**](https://img.shields.io/badge/REPO-FF00FF)](https://github.com/MatteoTomasetto/shred-rom) [![Paper](https://img.shields.io/badge/PAPER-008080)](http://dx.doi.org/10.1038/s41467-025-65126-y)  <br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="600"></div> |
 | [**pearl**](https://github.com/MatteoTomasetto/pearl) *Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems*<br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/pearl/main/media/pearl.png" width="600"></div> |
 | [**LatentFeedbackControl**](https://github.com/MatteoTomasetto/LatentFeedbackControl) *Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models*<br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/LatentFeedbackControl/master/media/OCP-DL-ROM-Feedback.jpg" width="600"></div> |
 :mortar_board: **Bakground**
