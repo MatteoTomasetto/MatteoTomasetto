@@ -4,7 +4,7 @@
 
 [![Scholar](https://img.shields.io/badge/GoogleScholar-lightblue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=RX_ZX2wAAAAJ&hl=it) &ensp; [![ResearchGate](https://img.shields.io/badge/ResearchGate-lightgray?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Matteo-Tomasetto) &ensp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/) 
 
-| :pushpin: research spotlight |
+| :pushpin: research spotlights |
 |---|
 | <div align="center">**shred-rom**<br>*Reduced order modeling with shallow recurrent decoder networks*<br>[![repo](https://img.shields.io/badge/REPO-FF00FF)](https://github.com/MatteoTomasetto/shred-rom) [![Paper](https://img.shields.io/badge/PAPER-008080)](http://dx.doi.org/10.1038/s41467-025-65126-y)  <br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="600"></div> |
 | <div align="center">**pearl**<br>*Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems*<br>[![repo](https://img.shields.io/badge/REPO-FF00FF)](https://github.com/MatteoTomasetto/pearl) [![Paper](https://img.shields.io/badge/PAPER-008080)](https://arxiv.org/abs/2607.16177)  <br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/pearl/main/media/pearl.png" width="600"></div> |
