@@ -2,8 +2,8 @@
 
 [![Scholar](https://img.shields.io/badge/GoogleScholar-lightblue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=RX_ZX2wAAAAJ&hl=it) &ensp; [![ResearchGate](https://img.shields.io/badge/ResearchGate-lightgray?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Matteo-Tomasetto) &ensp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/) &ensp;  <a href="mailto:matteo.tomasetto@polimi.it">`matteo.tomasetto@polimi.it`</a> 
 
-| :pushpin: research spotlights |
-|---|
+:pushpin: **research spotlight**
+
 | <div align="center">**shred-rom**<br>*Reduced order modeling with shallow recurrent decoder networks*<br>[![CODE](https://img.shields.io/badge/CODE-FF00FF)](https://github.com/MatteoTomasetto/shred-rom) [![Paper](https://img.shields.io/badge/PAPER-008080)](http://dx.doi.org/10.1038/s41467-025-65126-y)  <br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/shred-rom/main/media/SHRED-ROM.png" width="600"></div> |
 | <div align="center">**pearl**<br>*Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems*<br>[![CODE](https://img.shields.io/badge/CODE-FF00FF)](https://github.com/MatteoTomasetto/pearl) [![Paper](https://img.shields.io/badge/PAPER-008080)](https://arxiv.org/abs/2607.16177)  <br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/pearl/main/media/pearl.png" width="600"></div> |
 | <div align="center">**LatentFeedbackControl**<br>*Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models*<br>[![CODE](https://img.shields.io/badge/CODE-FF00FF)](https://github.com/MatteoTomasetto/LatentFeedbackControl) [![Paper](https://img.shields.io/badge/PAPER-008080)](https://doi.org/10.1016/j.cma.2025.118030)  <br><br><div align="center"><img src="https://raw.githubusercontent.com/MatteoTomasetto/LatentFeedbackControl/master/media/OCP-DL-ROM-Feedback.jpg" width="600"></div> |
