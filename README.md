@@ -1,8 +1,6 @@
 ### Hi there, I'm Matteo :sunglasses:
 
-<a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a>  <a href="mailto:matteo.tomasetto@polimi.it">`matteo.tomasetto@polimi.it`</a> 
-
-[![Scholar](https://img.shields.io/badge/GoogleScholar-lightblue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=RX_ZX2wAAAAJ&hl=it) &ensp; [![ResearchGate](https://img.shields.io/badge/ResearchGate-lightgray?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Matteo-Tomasetto) &ensp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/) 
+<a href="mailto:matteo.tomasetto10@gmail.com">`matteo.tomasetto10@gmail.com`</a>  <a href="mailto:matteo.tomasetto@polimi.it">`matteo.tomasetto@polimi.it`</a> [![Scholar](https://img.shields.io/badge/GoogleScholar-lightblue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=RX_ZX2wAAAAJ&hl=it) &ensp; [![ResearchGate](https://img.shields.io/badge/ResearchGate-lightgray?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Matteo-Tomasetto) &ensp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-tomasetto/) 
 
 | :pushpin: research spotlights |
 |---|
